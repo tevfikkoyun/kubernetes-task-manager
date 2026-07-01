@@ -4,6 +4,8 @@ A full-stack Task Manager application deployed to Kubernetes — taking the [doc
 
 ![Task Manager running on Kubernetes](k8s-task-manager-running.png)
 
+> This project fulfills all requirements of the [Kubernetes Resume Challenge](https://cloudresumechallenge.dev/docs/extensions/kubernetes-challenge/) — containerization, Kubernetes deployment, scaling, rolling updates, rollbacks, HPA, liveness/readiness probes, ConfigMaps, Secrets, and persistent storage — using a real full-stack application built from scratch rather than the suggested sample app.
+
 ## Architecture
 
 ```
